@@ -232,6 +232,10 @@ header {
   margin-bottom: 50px;
 }
 
+.products-image {
+  display: block;
+}
+
 /* team */
 
 .team.section {
@@ -269,6 +273,7 @@ header {
 
 .team-image {
   margin-bottom: 30px;
+  display: block;
 }
 
 footer {
@@ -328,6 +333,7 @@ footer {
   margin-right: 30px;
   margin-bottom: 30px;
   background: var(--main-white-color);
+  max-height: 404px;
 }
 
 .portfolio-list .item:nth-child(3n) {
